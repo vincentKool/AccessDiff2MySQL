@@ -9,6 +9,8 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
+### SQL ###
+*.sql
 
 ### Java ###
 *.class
